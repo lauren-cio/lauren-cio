@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p style="text-align: center; font-size: 24px;">Aspiring Web Developer passionate about building practical solutions across software, <br>systems, and emerging technologies. Continuously learning, adaptable, <br>and driven to contribute meaningfully in collaborative environments.</p>
+<p style="text-align: center;" font-size: 24px;>Aspiring Web Developer passionate about building practical solutions across software, <br>systems, and emerging technologies. Continuously learning, adaptable, <br>and driven to contribute meaningfully in collaborative environments.</p>
 
 
 ## 🌐 Socials:
