@@ -90,11 +90,25 @@ vibe_check: ✅
 
 ---
 
-## 🏆 trophies i didn't know i was winning
+## 📈 my commit arc (it's giving main character)
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=lauren-cio&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lauren-cio&theme=dracula&hide_border=true&area=true&area_color=BD93F9&color=BD93F9&line=BD93F9&point=ffffff)](https://github.com/lauren-cio)
+
+</div>
+
+---
+
+## 🐍 my contributions being hunted down
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauren-cio/lauren-cio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauren-cio/lauren-cio/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lauren-cio/lauren-cio/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
