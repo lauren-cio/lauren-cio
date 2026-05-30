@@ -90,11 +90,11 @@ vibe_check: ✅
 
 ---
 
-## 🏆 trophies i didn't know i was winning
+## ✍️ today's dev fortune cookie
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=lauren-cio&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
