@@ -94,7 +94,7 @@ vibe_check: ✅
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=lauren-cio&theme=material-palenight&no-frame=true&no-bg=false&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=lauren-cio&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
