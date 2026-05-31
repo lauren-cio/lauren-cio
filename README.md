@@ -14,7 +14,7 @@
 
 ```yaml
 name: Mark Lauren
-pronouns: he/him
+pronouns: depends
 location: Philippines 🇵🇭
 currently_learning: [always something new ngl]
 available_for: collab, internships, open source
