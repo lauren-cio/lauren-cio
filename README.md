@@ -10,7 +10,7 @@
 
 ## 🫧 about me
 
-> aspiring web dev who genuinely enjoys turning ideas into real things that people can use. i'm into full-stack stuff, clean UIs, and occasionally pretending i understand DevOps.
+> aspiring web dev who genuinely enjoys turning ideas into real things that people can use(fake info). i'm into full-stack stuff(not really), clean UIs, and occasionally pretending i understand DevOps.
 
 ```yaml
 name: Mark Lauren
