@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=lauren&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=web+dev+%7C+perpetual+learner+%7C+part-time+gamer&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=building+things+that+actually+work+%F0%9F%94%A7;always+learning%2C+never+coping+%F0%9F%92%80;coffee+%3E+sleep+probably+%E2%98%95;open+to+collabs+%F0%9F%91%80)](https://git.io/typing-svg)
